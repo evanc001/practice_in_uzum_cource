@@ -1,35 +1,16 @@
 # practice_in_uzum_cource
-Worked with a tutor on warehouse order analysis, focusing on order volume and assembly time over three sessions
+# Проекты по Бизнес-аналитике и Машинному обучению
 
-# Warehouse Order Analysis
+### Analytic Projects
+В этой папке представлены проекты по SQL. Я проводил исследования с использованием оконных функций в ClickHouse и занимался проектами по А/А тестированию.
 
-This repository contains work done in collaboration with a tutor to analyze warehouse orders and processing times.
+### Live Code Practice
+В данной директории находится проект, в котором я вместе с тьютором анализировал склад маркетплейса Uzum. Мы исследовали статистику обработки заказов в различных городах и пунктах выдачи, а также проводили статистические тесты, выделяя города в кластеры по показателям сборки заказов.
 
-## Overview
+### ML Projects
+Эта папка содержит проекты по машинному обучению:
+- Проект с использованием KNN для распознавания рукописных цифр.
+- Проект по кредитному скорингу, где я применял линейные модели для принятия решений о выдаче кредита.
+- Соревнование на Kaggle по предсказанию цены за квартиру с использованием различных моделей машинного обучения. Моя работа заняла 5-е место в соревновании.
 
-The project spans three sessions where we focused on:
-
-- Analyzing order volumes
-- Studying assembly times in the warehouse
-- Utilizing linear models and KMeans clustering for analysis
-
-## Tools Used
-
-- Python for data analysis
-- Jupyter Notebooks for code execution
-- Pandas for data manipulation
-- Matplotlib and Seaborn for visualization
-- Scikit-learn for implementing linear models and KMeans clustering
-
-## File Structure
-
-- `Step_updates.ipynb`: Contains analysis for the first session
-- `live_code_project.ipynb`: Analysis for the second session (includes live coding)
-- `session_3.ipynb`: Analysis for the third session (upcoming)
-
-## How to Use
-
-1. Clone the repository: `git clone <repository_URL>`
-2. Open Jupyter Notebook and explore the sessions
-
-Feel free to reach out for any questions or suggestions!
+Здесь собраны мои учебные проекты и исследования, отражающие мой опыт в анализе данных, машинном обучении и SQL.
